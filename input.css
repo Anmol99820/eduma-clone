@@ -1,0 +1,7 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+
+/* make sure to run this command always run to teke tailwind css effect */
+/* npx tailwindcss -i ./input.css -o ./style.css --watch */
